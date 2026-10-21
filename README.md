@@ -34,12 +34,6 @@ Technologies that I've been learning and picked up along my programming journey.
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![UbuntuServer Badge](https://img.shields.io/badge/UbuntuServer-E95420?logo=ubuntu&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-![TrueNAS Badge](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-3693F3?logo=icloud&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-![Plex Badge](https://img.shields.io/badge/Plex-EBAF00?logo=plex&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-![Matrix Badge](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-![SteamCMD Badge](https://img.shields.io/badge/SteamCMD-000?logo=steam&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-![Minecraft Badge](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 

@@ -10,13 +10,16 @@ Technologies that I've been learning and picked up along my programming journey.
 #### 🌐  Languages : <br />
 
 <!--- All badges gotten from https://developstorm.github.io/simple-badges/ --->
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![C++ Badge](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![CSS Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 
 #### 🛠 OS, IDE & Tools: <br />
-
 ![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)

@@ -34,7 +34,9 @@ Technologies that I've been learning and picked up along my programming journey.
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![UbuntuServer Badge](https://img.shields.io/badge/UbuntuServer-E95420?logo=ubuntu&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
-
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Hack The Box Badge](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![echoCTF Badge](https://img.shields.io/badge/echoCTF-4CAF50?style=for-the-badge&labelColor=282A36&color=1C1E26)
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!---line break---->

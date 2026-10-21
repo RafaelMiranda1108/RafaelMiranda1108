@@ -17,7 +17,8 @@ Technologies that I've been learning and picked up along my programming journey.
 
 #### 🛠 OS, IDE & Tools: <br />
 
-![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
 ![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=BD92F9&style=for-the-badge&labelColor=282A36&color=1C1E26)
